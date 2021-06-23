@@ -34,14 +34,14 @@
     "@web-master/node-web-fetch": "^0.10.0"
   },
   "devDependencies": {
-    "@nestjs/common": "^6.8.5",
-    "@types/node": "^12.7.8",
+    "@nestjs/common": "^7.6.15",
+    "@types/node": "^14.14.36",
     "ava": "^2.4.0",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.0",
     "rxjs": "^6.5.3",
-    "ts-node": "^8.4.1",
-    "typescript": "^3.6.3"
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.3"
   },
   "peerDependencies": {
     "@nestjs/common": "^6"
